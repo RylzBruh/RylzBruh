@@ -9,6 +9,13 @@
 
 ---
 
+### 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphaely/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RylzBruh)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rafaelyakubovich@gmail.com)
+
+---
+
 ### 🛠 **Tools & Technologies**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws) 
@@ -27,13 +34,6 @@
 ---
 
 ### 📂 **Featured Projects**
----
-
-### 📫 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphaely/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RylzBruh)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:rafaelyakubovich@gmail.com)
-
 ---
 
 💡 **"Optimizing cloud security & DevOps workflows—one commit at a time!"** 🚀  
